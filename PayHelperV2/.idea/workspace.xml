@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Build:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="175e88de-713d-4c10-a9ee-5c3a867f9876" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PayHelperV2$StartClass_.coverage" NAME="StartClass  Coverage Results" MODIFIED="1489685116869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.alxant.worker.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/Services.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="41" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/StartClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/Streets.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/admin/AdminWork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/Payment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLSX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXML.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WriteData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/XLSToTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="JavaFXApplication" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+      <find>вы вно</find>
+      <find>Вы внсит</find>
+      <find>cat</find>
+      <find>Голов</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/ru/alxant/worker/view/StartDayPageTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/StartDayPage.form" />
+        <option value="$PROJECT_DIR$/src/testing.java" />
+        <option value="$PROJECT_DIR$/Version.txt" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/ReportPage.form" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/exeption/BadDateException.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/exeption/BadYearException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/alxant/worker/model/support/FormatPayToDateTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXML.java" />
+        <option value="$PROJECT_DIR$/src/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/control/myKeyListener.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/control/MyKeyListener.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/StartDayPage.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/fdbBaseWorker/FDBWork.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/BarsForm.java" />
+        <option value="$PROJECT_DIR$/src/MyTest/App01.java" />
+        <option value="$PROJECT_DIR$/src/MyTest/App02.java" />
+        <option value="$PROJECT_DIR$/src/MyTest/App03.java" />
+        <option value="$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/Cell.class" />
+        <option value="$PROJECT_DIR$/reports/log/log.log" />
+        <option value="$PROJECT_DIR$/future.txt" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/NewAbonent.form" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/BarsForm.form" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/Cassa.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/alxant/worker/model/WorkXLSTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/PayForm.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/support/StartDaysWork.java" />
+        <option value="$PROJECT_DIR$/resources/Services.xml" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/noprogram/DeleteSimbols.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/ReportPage.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/admin/AdminPage.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/control/PayButton.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/admin/AdminWork.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/OutForUser.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/support/CellsWorker.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/support/FormatPayToDate.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/support/MyCellStyle.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/control/ControlFieldFactory.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/data/Cassa.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/support/CorrectParceInt.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLSX.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/XLSToTable.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/StartClass.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/NewClient.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/NewAbonent.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/WriteData.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/AcceptPay.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/Payment.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/noprogram/CutUnNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLS.java" />
+        <option value="$PROJECT_DIR$/src/ru/alxant/worker/view/PayForm.form" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="942" />
+    <option name="y" value="46" />
+    <option name="width" value="985" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alxant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alxant" type="462c0819:PsiDirectoryNode" />
+              <item name="fdbBaseWorker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alxant" type="462c0819:PsiDirectoryNode" />
+              <item name="noprogram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayHelperV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PayHelperV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alxant" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="payhelperv2" />
+    <property name="SearchEverywhereHistoryKey" value="System.out&#9;null&#9;null" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="170" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="199" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536486740430" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15917969" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.alxant.worker.model" />
+      <recent name="ru.alxant.worker.model.support" />
+      <recent name="ru.alxant.worker.view" />
+      <recent name="test" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="ru.alxant.worker.model.support.CellsWorker" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Документы\IdeaProjects\2017--\PayHelperV2\src\ru\alxant\noprogram" />
+      <recent name="C:\Users\User\OneDrive\Документы\IdeaProjects\PayHelperV2\resources" />
+      <recent name="C:\Users\User\OneDrive\Документы\IdeaProjects\PayHelperV2\lib" />
+      <recent name="C:\Users\User\OneDrive\Документы\IdeaProjects\PayHelperV2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\Old\2017--\PayHelperV2\resources" />
+      <recent name="C:\Users\User\OneDrive\Документы\IdeaProjects\2017--\PayHelperV2\src\ru\alxant\noprogram" />
+      <recent name="C:\Users\Alxan\OneDrive\Документы\IdeaProjects\PayHelperV2\resources" />
+      <recent name="C:\Users\Alxan\OneDrive\Документы\IdeaProjects\PayHelperV2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartClass ">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alxant.worker.admin.AdminWork" />
+      <module name="PayHelperV2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alxant.worker.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CutUnNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alxant.noprogram.CutUnNumbers" />
+      <module name="PayHelperV2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alxant.noprogram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteSimbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alxant.noprogram.DeleteSimbols" />
+      <module name="PayHelperV2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alxant.noprogram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartClass " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alxant.worker.StartClass" />
+      <module name="PayHelperV2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alxant.worker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkXLSTest.getCountInList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PayHelperV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alxant.worker.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.alxant.worker.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.alxant.worker.model.WorkXLSTest" />
+      <option name="METHOD_NAME" value="getCountInList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartClass " />
+      <item itemvalue="Application.DeleteSimbols" />
+      <item itemvalue="Application.AdminWork" />
+      <item itemvalue="Application.CutUnNumbers" />
+      <item itemvalue="JUnit.WorkXLSTest.getCountInList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartClass " />
+        <item itemvalue="Application.CutUnNumbers" />
+        <item itemvalue="Application.AdminWork" />
+        <item itemvalue="Application.DeleteSimbols" />
+        <item itemvalue="JUnit.WorkXLSTest.getCountInList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175e88de-713d-4c10-a9ee-5c3a867f9876" name="Default" comment="" />
+      <created>1488117143342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488117143342</updated>
+      <workItem from="1501225179163" duration="26817000" />
+      <workItem from="1501557191980" duration="774000" />
+      <workItem from="1502084433708" duration="662000" />
+      <workItem from="1502237770748" duration="15841000" />
+      <workItem from="1502440844988" duration="894000" />
+      <workItem from="1502592960976" duration="470000" />
+      <workItem from="1502670982016" duration="4458000" />
+      <workItem from="1502680019484" duration="16727000" />
+      <workItem from="1502749654175" duration="4520000" />
+      <workItem from="1502847724441" duration="5690000" />
+      <workItem from="1502920279117" duration="229000" />
+      <workItem from="1502920957608" duration="775000" />
+      <workItem from="1502928045227" duration="7252000" />
+      <workItem from="1503385010845" duration="130000" />
+      <workItem from="1503457462709" duration="3151000" />
+      <workItem from="1503477329768" duration="683000" />
+      <workItem from="1503903243799" duration="23000" />
+      <workItem from="1503979399604" duration="116000" />
+      <workItem from="1504201316396" duration="1239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 52m 19s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 52m 48s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 53m 04s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 53m 24s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 53m 38s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 58m 36s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormatPayToDateTest_formatPayDate - 2017.03.19 at 14h 58m 55s.xml">
+      <configuration name="FormatPayToDateTest.formatPayDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkXLSTest_getCountInList - 2017.08.09 at 13h 21m 17s.xml">
+      <configuration name="WorkXLSTest.getCountInList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkXLSTest_getCountInList - 2017.08.09 at 13h 24m 41s.xml">
+      <configuration name="WorkXLSTest.getCountInList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkXLSTest_getCountInList - 2017.08.10 at 08h 57m 30s.xml">
+      <configuration name="WorkXLSTest.getCountInList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90451000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="38" width="1936" height="1050" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32725322" />
+      <window_info anchor="bottom" x="1365" y="1" width="1280" height="984" id="Run" order="2" weight="0.33953997" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3140676" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16105418" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280507" />
+      <window_info anchor="bottom" x="1365" y="1" width="1280" height="984" id="Run" order="2" weight="0.34405145" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.31378764" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3296875" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MyTest/App02.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyTest/App03.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/CellWorker.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Date.java" />
+    <entry file="file://$PROJECT_DIR$/reports/log/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23252">
+          <caret line="469" column="64" selection-start-line="469" selection-start-column="64" selection-end-line="469" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/view/StartDayPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1704">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/Row.class" />
+    <entry file="uml://JAVA/ru.alxant.worker.model.WorkXLS" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/alxant/worker/model/support/FormatPayToDateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/alxant/worker/model/WorkXLSTest.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/CellStyle.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/BorderStyle.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/Sheet.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/poi-3.15.jar!/org/apache/poi/ss/usermodel/Cell.class" />
+    <entry file="file://$PROJECT_DIR$/future.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/view/ReportPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="228" column="41" selection-start-line="228" selection-start-column="41" selection-end-line="228" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/support/FormatPayToDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/support/MyCellStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/control/ControlFieldFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/control/PayButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="154" column="42" selection-start-line="154" selection-start-column="42" selection-end-line="154" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/data/Cassa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/exeption/BadDateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/exeption/BadYearException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/support/CellsWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/support/CorrectParceInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/support/StartDaysWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/OutForUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Version.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/view/NewAbonent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/view/AcceptPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2120">
+          <caret line="117" column="34" selection-start-line="117" selection-start-column="34" selection-end-line="117" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/noprogram/DeleteSimbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/fdbBaseWorker/FDBWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/noprogram/CutUnNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/view/PayForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/NewClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Streets.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/admin/AdminWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXLSX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WorkXML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/WriteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/model/XLSToTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/alxant/worker/StartClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Build:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PayHelperV2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>xmlbeans-2.6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
